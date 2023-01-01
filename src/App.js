@@ -9,7 +9,7 @@ function App() {
         <p>🚧 site under construction 🚧</p>
         <a
           className="App-link"
-          href="https://twitter.com/ashusinghin"
+          href="https://linktr.ee/ashusingh.org"
           target="_blank"
           rel="noopener noreferrer"
         >
