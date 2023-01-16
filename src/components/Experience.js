@@ -11,8 +11,6 @@ import redis from "../experience/redis.png";
 import rabbitmq from "../experience/rabbitmq.jpeg";
 import kafka from "../experience/kafka.jpeg";
 import aws from "../experience/aws.png";
-import restful from "../experience/restapi.png";
-import microservice from "../experience/microservices.jpeg";
 
 const Experience = () => {
   const techs = [
